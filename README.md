@@ -15,6 +15,7 @@
 <a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/110114333/181337370-744a4721-c9a3-42d3-9499-9633a9aa6805.png" height="40" /></a> 
 <a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/110114333/181337426-7b4d2c61-6ca4-4a6b-a6ec-11508dc19c6d.png" height="40" /></a> 
 <a href=" " target="blank"><img align="center" src="https://user-images.githubusercontent.com/110114333/181337504-f5fdf5f6-ebc5-489c-ae08-4187f589f328.png" height="40" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/user-attachments/assets/f43d93c3-8969-485c-a80e-6db3893906eb" height="60" /></a> 
 
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -30,13 +31,6 @@
 </div>
 
 
-<br><br>
-<br><br>
-
-```
-
-```
-   
 
 
 <h2 align="center">🐧 Connect with me 🐧</h2>
