@@ -53,5 +53,3 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
-
-<img align="center" alt="char" width="1000" src="https://github.com/itwasme-ulrich/itwasme-ulrich/blob/output/github-contribution-grid-snake.svg">
