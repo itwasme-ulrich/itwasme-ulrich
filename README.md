@@ -1,5 +1,5 @@
 ![tetris](https://user-images.githubusercontent.com/110114333/181302609-32d7757a-7886-45bc-821e-3d7b0d5fb462.gif)
-<h1 align="center">Chào mọi người 👋, Cao Hiếu nè</h1>
+<h1 align="center">Hi!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itwasme-ulrich&label=Profile%20views&color=0e75b6&style=flat" alt="itwasme-ulrich" /> </p>
 <img align="right" alt="char" width="400" src="https://media.giphy.com/media/KUDgb6qXPYybMrYsqZ/giphy.gif">
 
